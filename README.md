@@ -1,7 +1,8 @@
 # Task-1
 ## **NMAP SCAN:**
 
-![nmap1.png](attachment:46b785d5-fa01-46da-8a55-06912c601be5:nmap1.png)
+
+<img width="1280" height="587" alt="nmap1" src="https://github.com/user-attachments/assets/818af850-2274-4f10-a442-d5e128e9bbf5" />
 
 The output provides the following information:
 
