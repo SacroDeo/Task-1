@@ -2,7 +2,7 @@
 ## **NMAP SCAN:**
 
 
-<img width="1280" height="587" alt="nmap1" src="https://github.com/user-attachments/assets/818af850-2274-4f10-a442-d5e128e9bbf5" />
+<img width="1280" height="587" alt="image" src="https://github.com/user-attachments/assets/23519577-0875-4bfc-9752-8be21f176da9" />
 
 The output provides the following information:
 
